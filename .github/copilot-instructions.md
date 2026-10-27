@@ -58,3 +58,14 @@
 ### UX
 - Display user-friendly error messages
 - Disable actions during async operations
+
+- ## Testing Instructions
+
+- Generate unit tests alongside production code
+- Prefer deterministic, data-driven tests
+- Avoid hard-coded assertions
+- Use descriptive test names
+
+## Test Coverage
+- Cover happy paths and edge cases
+- Validate business rules, not static values
