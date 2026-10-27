@@ -69,3 +69,10 @@
 ## Test Coverage
 - Cover happy paths and edge cases
 - Validate business rules, not static values
+
+- ## Enterprise Constraints
+
+- Follow internal coding standards
+- Ensure compliance with data protection regulations
+- Do not generate mock credentials or secrets
+- Prefer dependency injection
